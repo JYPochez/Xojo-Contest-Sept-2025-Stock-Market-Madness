@@ -4,6 +4,8 @@
 **Target Resolution:** 1280×720 (Windowed)
 **Platform:** Xojo Desktop Application
 
+<img width="1392" height="861" alt="Stock Market Madness" src="https://github.com/user-attachments/assets/1c6e79e4-d79c-464d-b3dc-13553d36a97a" />
+
 ## Overview
 
 Stock Market Madness is a fast-paced stock trading simulation where players buy and sell stocks as prices fluctuate in real-time. Navigate volatile markets, react to changing prices, and maximize your portfolio value during a timed trading session. With 10 diverse stocks across different sectors and realistic price movements, every decision counts in this thrilling financial challenge.
